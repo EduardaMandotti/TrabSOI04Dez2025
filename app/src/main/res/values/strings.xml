@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TrabSOI04Dez</string>
+    <string name="numinteiro">Insira um valor</string>
+    <string name="resp">O número</string>
+    <string name="validar">Validar</string>
+</resources>
